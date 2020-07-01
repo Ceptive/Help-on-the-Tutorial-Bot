@@ -1,1 +1,6 @@
-if you 
+if you cannot create a file path using the Command Prompt 
+instead open a Windows Power Shell file, to do this follow the steps below
+
+step 1 - open the folder where you want your Discord Bot to be located 
+step 2 - hold down the SHIFT key and right click inside the folder 
+step 3 - now scroll down until you find an option to open a windows powershell 
